@@ -1,0 +1,14 @@
+boat
+ship
+ball
+bridge
+rock
+person
+rubbish
+mast
+buoy
+platform
+harbor
+tree
+grass
+animal
